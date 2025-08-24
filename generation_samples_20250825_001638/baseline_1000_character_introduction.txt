@@ -1,0 +1,80 @@
+МОДЕЛЬ: 🥉 3-е место: Baseline (без центрирования)
+VALIDATION LOSS: 4.9616
+ПРОМПТ: Введение персонажа
+ВРЕМЯ ГЕНЕРАЦИИ: 4.0с
+============================================================
+
+Overriding: start = Enter KING RICHARD II, with his nobles.
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Enter KING RICHARD II, with his nobles.
+
+HENRY BOLINGBROKE:
+Northumberland, my lord,
+To help me some of my lord.
+
+KING RICHARD II:
+An if I was; and yet I am mad
+To speak'd to be king, and what I am,
+Please your king; for your son, I charge you,
+To fight against him in the weary way
+Your own right noble Gloucester done.
+
+DUKE OF YORK:
+Good prince, I do beseech your majesty,
+Be ready at the Tower and not himself.
+
+HENRY BOLINGBROKE:
+I never shall be patient; for my Lord Aumerle.
+
+HENRY BOLINGBROKE:
+Dispose of you, on me; your day is banish'd.
+
+KING RICHARD II:
+A king, I have but dream'd the king,
+Nor I within my gage, my loyal knee,
+As mine, by me no man's tongue:
+Although I do not banish'd, I see thee,
+As I was; for I do wish myself
+For with an ungovern'd and I did swear
+For dying men a two deep a head
+For that I was a king's majesty!
+For that I have a king, I was a king:
+By him I's, I have not I was a king;
+And all my life, but now to lay
+For I am the crown'd upon my face.
+
+HENRY BOLINGBROKE:
+Long may you say, I know your majesty
+To rages and your grace: when your noble lords
+My grief we have yielded upon a grief
+To dimmish your highness to your sorrow.
+
+KING RICHARD II:
+There is no cause: he is some other's,
+To come the way what it is.
+
+HENRY BOLINGBROKE:
+As for my gracious sovereign liege, I do not swear
+By heaven, as my grief hath done.
+
+KING RICHARD II:
+I swear, 'tis you king; but all:
+That I shall be, I have, and then my sick,
+You shall not sue to be, of your love.
+Therefore, give me leave, I make you pardon.
+
+KING
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 353
+• Уникальность: 0.456
+• Связность: 0.040
+• Персонажи: 10
+• Диалоги: 22

@@ -1,0 +1,90 @@
+МОДЕЛЬ: 🥇 ПОБЕДИТЕЛЬ: Aggressive All (QK+V+Emb+MLP)
+VALIDATION LOSS: 4.8281
+ПРОМПТ: Поэтические строки
+ВРЕМЯ ГЕНЕРАЦИИ: 4.9с
+============================================================
+
+Overriding: start = Shall I compare thee to a summer's day?
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Shall I compare thee to a summer's day?
+
+JULIET:
+O, thou hast some comfort me kiss I not away.
+
+JULIET:
+Ay, for I will not remember it;
+Anonio, my lord, and by my daughter be brief,
+And I have no more sorrow.
+
+JULIET:
+Wilt thou art a fain:
+For in his soul shall bethink thee and speak?
+
+ROMEO:
+Thou know'st aJULIET:
+And yet I am: if thou art gone.
+
+JULIET:
+Nay, sweet Juliet, forswear me breathe upon her.
+
+JULIET:
+Come, I may thou art not love'st no law,
+That I am too good night, out my love,
+Is my love love me Romeo banished.
+
+JULIET:
+IET:
+Why, I have; and I'll read read not,
+On Thursday lives lives.
+JULIET:
+Nurse:
+But I will not do not so.
+
+
+JULIET:
+IET:
+At RICHARD III:
+For I did did but I'll follow thee,
+That I am the thing,
+And I am too rash in that is dead,
+Be satisfied; and is no further;
+I hate's Romeo, I shall be an officer:
+Which I have in love from the the thing,
+Therefore, I last night night till this ill-day
+Who hath made by me from the golden days
+It was a kiss I should be,
+As I came to-morrow morning.
+
+ROMEO:
+My love'st thou hast a grief, but love so,
+So many day; and I would, but I'll find it that love.
+My cheeks, and every day unto the ground,
+On this the dearer love,
+
+JULIET:
+As thou keep'st on my hand I must I Romeo's eye
+Than,
+A torch as the tomb, for the soul.
+Nurse:
+Then
+JULIET:
+
+Now, all the face is the law and love's the nighting sorrow's love!
+
+JULIET:
+And'st the sun'st not so long to beauteous modesty,
+It
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 330
+• Уникальность: 0.491
+• Связность: 0.061
+• Персонажи: 15
+• Диалоги: 29

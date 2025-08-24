@@ -1,0 +1,95 @@
+МОДЕЛЬ: 🥉 3-е место: Baseline (без центрирования)
+VALIDATION LOSS: 4.9616
+ПРОМПТ: Простое начало
+ВРЕМЯ ГЕНЕРАЦИИ: 4.0с
+============================================================
+
+Overriding: start = The king said
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+The king said, the king was true;
+And so he hath lost his noble father's.
+But, no; when he doth himself,
+His master mayor in the root,
+And by his loath almost from the father of France
+He is come to bid his son and aid;
+Things something in service than a man's eyes,
+Since this shall be embraced with patience.
+I'll tell him what's to be found.
+
+BISHOP OF ELY:
+My lord, I know your grace hath lost his.
+
+BUCKINGHAM:
+What, noble lord, I know he should be of Buckingham
+When I am too much for him,
+But for his own royal duke's royal grace.
+
+QUEEN ELIZABETH:
+Why, so he?
+
+KING RICHARD III:
+He is not there: if heaven knows he be ruled.
+
+QUEEN ELIZABETH:
+Come,, come, we will murder thee to our subjects' assistance.
+
+KING RICHARD III:
+Ay, by the way I swear.
+
+QUEEN ELIZABETH:
+I will go see your daughter's kiss your blessing.
+
+KING RICHARD III:
+What,, madam?
+
+DUCHESS OF YORK:
+No, madam.
+
+KING RICHARD III:
+Madam, by your son's son's son.
+
+QUEEN ELIZABETH:
+And wail the king.
+Who hath that by me?
+
+KING RICHARD III:
+But how now, how couldst thou guess?
+
+QUEEN ELIZABETH:
+Why, what think'st thou?
+
+KING RICHARD III:
+I, who shall say you to that love her?
+
+QUEEN ELIZABETH:
+But how dost thou love her high?
+
+KING RICHARD III:
+But what news?
+
+QUEEN ELIZABETH:
+By heaven she, by that love.
+
+KING RICHARD III:
+
+KING RICHARD III:
+And in all love's love's love and love's love.
+
+QUEEN ELIZABETH:
+But how long's love to her princely gracious suit!
+
+KING RICHARD III:
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 302
+• Уникальность: 0.483
+• Связность: 0.056
+• Персонажи: 21
+• Диалоги: 29

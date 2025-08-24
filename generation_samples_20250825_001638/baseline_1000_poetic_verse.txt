@@ -1,0 +1,101 @@
+МОДЕЛЬ: 🥉 3-е место: Baseline (без центрирования)
+VALIDATION LOSS: 4.9616
+ПРОМПТ: Поэтические строки
+ВРЕМЯ ГЕНЕРАЦИИ: 4.1с
+============================================================
+
+Overriding: start = Shall I compare thee to a summer's day?
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Shall I compare thee to a summer's day?
+
+JULIET:
+O God! O God, how is this?
+
+Nurse:
+Amen, a soldier, the best of such a woman
+Can ever we come to come from him.
+
+JULIET:
+What are you of him that?
+
+Nurse:
+No, no; I hope, that you'll be in a man.
+
+JULIET:
+I do; I pray you, tell you what I will,
+To-morrow or I shall.
+
+LADY CAPULET:
+What, were you this?
+
+Nurse:
+Anon, what's your mother?
+
+LADY CAPULET:
+'Tis the matter.
+
+JULIET:
+Marry, madam, I know not what I am.
+What, are you with you?
+
+Nurse:
+Why, then, what's he?
+
+LADY CAPULET:
+He is a little more?
+
+JULIET:
+Ay, but not a word:
+I have some hope so much of such a fever
+Are-hanging, or a joyful time to do him beseech you.
+
+LADY CAPULET:
+What, take my leave! O thou art sweetest thy life;
+Or, like of thy tears, thou hast done:
+I have more than death, I am but a man,
+For such a poor soul, and thou know'st not of fear.
+
+JULIET:
+O God! I am, what is this?
+
+Nurse:
+Anon, I hope.
+
+LADY CAPULET:
+My daughter is your mother.
+
+JULIET:
+Myself, that is but a ghostly father's death,
+And his doom'd down a woman in heaven.
+
+Nurse:
+What's he?
+
+JULIET:
+Here, Romeo's no;
+Anon that is: as the traitor gentleman
+A mother, and his child, and his
+I must be a feeling of his love.
+
+LADY CAPULET:
+What says he?
+
+Nurse:
+He, he, he's not to say.
+
+JULIET:
+What she shall be cons
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 300
+• Уникальность: 0.463
+• Связность: 0.030
+• Персонажи: 15
+• Диалоги: 32

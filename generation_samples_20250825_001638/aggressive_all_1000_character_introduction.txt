@@ -1,0 +1,87 @@
+МОДЕЛЬ: 🥇 ПОБЕДИТЕЛЬ: Aggressive All (QK+V+Emb+MLP)
+VALIDATION LOSS: 4.8281
+ПРОМПТ: Введение персонажа
+ВРЕМЯ ГЕНЕРАЦИИ: 4.9с
+============================================================
+
+Overriding: start = Enter KING RICHARD II, with his nobles.
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Enter KING RICHARD II, with his nobles.
+
+HENRY BOLINGBROKE:
+Northumberland, my Lord of Norfolk,
+Our doth himself, as this for his majesty,
+That he may be so long.
+
+KING RICHARD II:
+My liege, my sovereign liege.
+
+HENRY BOLINGBROKE:
+To the king, uncle, for the weary way
+And doubt the liest men of my son,
+Which, by the same end upon my banish'd.
+
+A:
+DUKE OF AUMERLE:
+For I shall be so; I shall not,
+An if I'll give me pardon him.
+
+HENRY BOLINGBROKE:
+To keep to do I was.
+
+DUCHESS OF AUMERLE:
+My liege, my sword; I will not I pity pity him for this?
+Shall I'll do not, I must be sure
+On some other other's heir,
+The very heart are the name, I come at liberty.
+We see them not swear,
+DUKE OF Aumerle,
+At RICHARD II:
+For I'll swear, gentle words.
+
+
+DUKE OF AUMBERLAND:
+That he take it is the king shall not show your grace
+Be patient; for him of thy oath?
+
+HENRY BOLINGBROKE:
+
+
+DUKE OF AUMERLE:
+'Tut, I am no more.
+Wife, my father, and, with him so,
+And all this sword of them all my true subjects but speak.
+
+DUKE OF YORK:
+
+
+DUKE OF AUMERLE:
+Come, thou art no, my leave that heigh.
+
+DUKE OF YORK:
+Provost thou art the matter.
+
+DUKE OF YORK:
+I will he would he?
+
+DUKE OF AUMERLE:
+I am I come as bold, what I can yield.
+Whither you'll hear
+DUKE OF AUMERLE:
+If it with him, and you are the king;
+I got them pronounce it was, I have heard him of thy bosom?
+Adonis be long to banish'd, but a king:
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 314
+• Уникальность: 0.475
+• Связность: 0.029
+• Персонажи: 16
+• Диалоги: 25

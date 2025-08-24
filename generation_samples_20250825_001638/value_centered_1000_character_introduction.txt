@@ -1,0 +1,95 @@
+МОДЕЛЬ: 🥈 2-е место: Value центрирование
+VALIDATION LOSS: 4.9422
+ПРОМПТ: Введение персонажа
+ВРЕМЯ ГЕНЕРАЦИИ: 4.3с
+============================================================
+
+Overriding: start = Enter KING RICHARD II, with his nobles.
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Enter KING RICHARD II, with his nobles.
+
+DUCHESS OF YORK:
+It is my kingdom's kiss, if you mercy,
+What says he be my lord?
+
+DUCHESS OF YORK:
+What says he?
+
+DUKE OF YORK:
+Fear, my lord.
+
+DUKE OF YORK:
+Ay, by the king?
+
+DUKE OF YORK:
+My lord, I doubt not be brief.
+
+DUKE OF YORK:
+Say, will you go, gentle uncle?
+
+DUKE OF YORK:
+No matter, fair madam.
+
+DUKE OF YORK:
+An if you do beseech your grace,
+Nor you, with a pitch and great royal king's son:
+He is my son, and with your father,
+And, by secret and a pardon,
+I take my leave to the contrary I tell:
+What is the duke, who's here in this good
+I do him, if you do do pardon me?
+
+DUKE OF YORK:
+I do beseech your grace.
+
+DUKE OF YORK:
+You may be patient, prince sir, I do hear me know.
+
+DUCHESS OF YORK:
+What is't that the matter?
+
+DUKE OF YORK:
+No; no is he: I twice, I fear the world.
+
+DUCHESS OF YORK:
+In God's sake, thou liest; I have fear'd and let me know.
+Who hath been by me who told me what?
+
+DUKE OF YORK:
+I could show thee woman, not so: when I will go.
+
+DUCHESS OF YORK:
+I do beseech your husband; for I would be the purpose
+Lest that act of this slander with him.
+
+DUCHESS OF YORK:
+Be plain, and not yet my burthen
+I have no more.
+
+DUCHESS OF YORK:
+Be not my son
+Thou art a traitor to kill him.
+
+HEN SCROOP:
+O, thou liest.
+
+DUCHESS OF YORK:
+He is the matter, I would have been more
+To see the law of my husband:'
+'Tis not so long a thousand men!
+
+DUCH
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 333
+• Уникальность: 0.426
+• Связность: 0.027
+• Персонажи: 19
+• Диалоги: 31

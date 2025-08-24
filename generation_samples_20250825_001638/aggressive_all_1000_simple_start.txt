@@ -1,0 +1,95 @@
+МОДЕЛЬ: 🥇 ПОБЕДИТЕЛЬ: Aggressive All (QK+V+Emb+MLP)
+VALIDATION LOSS: 4.8281
+ПРОМПТ: Простое начало
+ВРЕМЯ ГЕНЕРАЦИИ: 4.9с
+============================================================
+
+Overriding: start = The king said
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+The king said, you be that the princely,
+And so much his comfort and his goodly gift
+For hateful wail the mayor of yours.
+
+KING RICHARD III:
+An if the king, I see, of Hereford be brief,
+And all my sovereign liege.
+
+KING RICHARD II:
+Indeed, I didst befall him be in his looks.
+
+KING RICHARD III:
+What hast thou, what news?
+
+KING RICHARD III:
+I know none: if thou?
+Why, what news?
+
+KING RICHARD III:
+More thee, by Saint George'st thou?
+
+QUEEN ELIZABETH:
+Go, and love'st no more than I was.
+
+STANLEY:
+Say, by me so brief, by Romeo;
+But if thou hare I am nothing but for things too much to to my grief.
+If I have to my face
+
+KING RICHARD III:
+
+Have you must I, my daughter'st my prayers are not hear it.
+
+KING RICHARD III:
+Save gentle Norfolk, let it to call thee.
+
+KING RICHARD III:
+I will I am in that,
+And I am me speak as I was I have done thy mind
+And I know his; for him.
+KING RICHARD III:
+God save the sight of mine.
+
+KING RICHARD III:
+Out, my boots thee hence, by that hath been been.
+
+KING RICHARD III:
+
+
+KING RICHARD III:
+So, by my gracious sovereign, brothers, nor he is but wept,
+That from your son from the crown,
+Shall I mean to be a kingdom's death.
+
+KING RICHARD III:
+
+KING RICHARD III:
+My liege.
+
+KING RICHARD III:
+KING RICHARD III:
+Tis thought,--
+Well, in the king,
+Thou art thou canst thou canst thou mean to thee from me?
+
+QUEEN ELIZABETH:
+
+Say, by thyself and I have I shouldst thou once.
+
+KING RICHARD III:
+I am the sun'st not be long for that I will?
+
+KING R
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 326
+• Уникальность: 0.445
+• Связность: 0.040
+• Персонажи: 20
+• Диалоги: 28

@@ -1,0 +1,92 @@
+МОДЕЛЬ: 🥈 2-е место: Value центрирование
+VALIDATION LOSS: 4.9422
+ПРОМПТ: Поэтические строки
+ВРЕМЯ ГЕНЕРАЦИИ: 4.3с
+============================================================
+
+Overriding: start = Shall I compare thee to a summer's day?
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+Shall I compare thee to a summer's day?
+
+JULIET:
+O, Romeo, if thou wilt fall not,--
+To help me with her, and tell me for a man,
+That is not be a lo,--how art thou a mad!
+O, I'll help thee to see thee.
+
+ROMEO:
+O, that name, I hear afflict:
+Some in a divine,
+It helps not in a stranger soul
+As love as a joyful bride I have.
+
+JULIET:
+O Romeo, rather, love, love, bide not, so must use to be.
+
+ROMEO:
+Anon! what's this? what says my heart?
+
+Nurse:
+It may be so, but to be a mad.
+
+JULIET:
+Madam, and a flattering gentleman
+With Romeo I am dead that we have drunk.
+What is the world the to-book in this face
+Of love's doom? O, what a dream on foot
+Is a poor tongue?
+
+JULIET:
+And I know not, did wish thee,
+And every thing, in a poor head upon that name!
+
+ROMEO:
+What says my name? where is my name?
+
+Nurse:
+By take that name, now at once,
+And yet know not; for I hate thee,
+Who he, I am gone from this.
+
+JULIET:
+I do beseech your heart, let him not hear it.
+
+ROMEO:
+I must not hear him, that I should forget,
+As I could find unto the soul.
+
+JULIET:
+I do beseech you, love the night
+What's yet? love's off, that calls?
+
+ROMEO:
+Marry, father, nor I did know the doom of mine.
+
+JULIET:
+O, thou wilt thou tell me of that which name again,
+As best thou didst bid me see that name-up to-day?
+
+ROMEO:
+I'll hear
+I'll tell thee with thee word than ere I have with thee.
+
+JULIET:
+Now do not do much better than thou art,
+I'll give thee strength to see thee.
+
+ROMEO:
+I hear thy
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 340
+• Уникальность: 0.459
+• Связность: 0.026
+• Персонажи: 15
+• Диалоги: 25

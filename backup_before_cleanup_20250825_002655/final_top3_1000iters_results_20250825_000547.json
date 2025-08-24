@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-08-25T00:05:47.363085",
+  "experiment_type": "final_top3_1000iters",
+  "base_config": {
+    "n_layer": 12,
+    "n_head": 12,
+    "n_embd": 768,
+    "dropout": 0.1,
+    "dataset": "shakespeare",
+    "gradient_accumulation_steps": 4,
+    "batch_size": 8,
+    "block_size": 256,
+    "learning_rate": 0.0003,
+    "beta2": 0.99,
+    "weight_decay": 0.1,
+    "device": "cuda",
+    "dtype": "bfloat16",
+    "compile": true
+  },
+  "total_experiments": 3,
+  "total_time": 569.3482372760773,
+  "results": [
+    {
+      "name": "baseline_1000",
+      "description": "\ud83e\udd47 \u041b\u0423\u0427\u0428\u0418\u0419: Baseline \u0431\u0435\u0437 \u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+      "success": true,
+      "time": 161.85847735404968,
+      "config": {
+        "name": "baseline_1000",
+        "description": "\ud83e\udd47 \u041b\u0423\u0427\u0428\u0418\u0419: Baseline \u0431\u0435\u0437 \u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+        "max_iters": 1000,
+        "center_qk": false,
+        "center_v": false,
+        "center_mlp": false,
+        "center_embeddings": false,
+        "center_residual": false,
+        "center_final_output": false,
+        "center_block_output": false,
+        "centering_mode": "adaptive"
+      },
+      "log_file": "training_log_final_baseline_1000_20250824_235618.log",
+      "training_history": [],
+      "checkpoint_val_loss": 4.9615559577941895,
+      "checkpoint_final_iter": 1000
+    },
+    {
+      "name": "value_centered_1000",
+      "description": "\ud83e\udd48 2-\u0435 \u043c\u0435\u0441\u0442\u043e: Value \u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+      "success": true,
+      "time": 173.02858304977417,
+      "config": {
+        "name": "value_centered_1000",
+        "description": "\ud83e\udd48 2-\u0435 \u043c\u0435\u0441\u0442\u043e: Value \u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+        "max_iters": 1000,
+        "center_qk": false,
+        "center_v": true,
+        "center_mlp": false,
+        "center_embeddings": false,
+        "center_residual": false,
+        "center_final_output": false,
+        "center_block_output": false,
+        "centering_mode": "adaptive"
+      },
+      "log_file": "training_log_final_value_centered_1000_20250824_235906.log",
+      "training_history": [],
+      "checkpoint_val_loss": 4.9421515464782715,
+      "checkpoint_final_iter": 1000
+    },
+    {
+      "name": "aggressive_all_1000",
+      "description": "\ud83e\udd49 3-\u0435 \u043c\u0435\u0441\u0442\u043e: \u0410\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u043e\u0435 \u0432\u0441\u0435 \u043a\u0440\u043e\u043c\u0435 Residual (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+      "success": true,
+      "time": 222.5014190673828,
+      "config": {
+        "name": "aggressive_all_1000",
+        "description": "\ud83e\udd49 3-\u0435 \u043c\u0435\u0441\u0442\u043e: \u0410\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u043e\u0435 \u0432\u0441\u0435 \u043a\u0440\u043e\u043c\u0435 Residual (1000 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0439)",
+        "max_iters": 1000,
+        "center_qk": true,
+        "center_v": true,
+        "center_mlp": true,
+        "center_embeddings": true,
+        "center_residual": false,
+        "center_final_output": false,
+        "center_block_output": false,
+        "centering_mode": "adaptive"
+      },
+      "log_file": "training_log_final_aggressive_all_1000_20250825_000204.log",
+      "training_history": [],
+      "checkpoint_val_loss": 4.8281354904174805,
+      "checkpoint_final_iter": 1000
+    }
+  ]
+}

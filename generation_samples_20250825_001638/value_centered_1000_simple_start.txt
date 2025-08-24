@@ -1,0 +1,94 @@
+МОДЕЛЬ: 🥈 2-е место: Value центрирование
+VALIDATION LOSS: 4.9422
+ПРОМПТ: Простое начало
+ВРЕМЯ ГЕНЕРАЦИИ: 4.3с
+============================================================
+
+Overriding: start = The king said
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 500
+Overriding: temperature = 0.8
+Overriding: top_k = 200
+Overriding: seed = 42
+number of parameters: 123.59M
+No meta.pkl found, assuming GPT-2 encodings...
+The king said, you have done:
+But, my lord, my lord, lords, are not at this?
+
+KING RICHARD III:
+My Lord of Richmond, in the seas,
+When I have from your father Henry's daughter be king,
+And was your son, and the king.
+
+ Tybalt, what will you?
+
+TYRREL:
+About the weary way
+And doubt the contrary I sworest was;
+And I, by Saint Paul, my lord.
+
+KING RICHARD III:
+My Lord of Richmond was your majesty
+Before I were dead, I should be king,
+When I am not that I was thine.
+
+TYRREL:
+My liege, my lord,
+If I could rail upon that sleep.
+
+KING RICHARD III:
+Are you a wrong, that I did tell me of all.
+
+BUCKINGHAM:
+Say that you said, I mean, my Lord
+The right of your pleasure I should be crown,
+Which you would have all the time of your palace,
+And call them offer'd with him that place;
+And, by your princely title, my sovereign,
+Have been gentle, in my highness' hands.
+
+KING RICHARD III:
+From me my liege, look down to thy life'st of me,
+Thy friends of you are good to some good.
+
+BUCKINGHAM:
+This is my good lord, your grace!
+
+KING RICHARD III:
+Be not the golden royal day of bloody blood
+Mark'd the type of this fatal hand of Edward's sight?
+
+BUCKINGHAM:
+And, by the king's name the prince.
+What is the day will?
+
+BUCKINGHAM:
+My lord, what news is your grace?
+
+KING RICHARD III:
+My lord, what is
+BUCKINGHAM:
+No, my lord?
+
+KING RICHARD III:
+My lord,
+
+KING RICHARD III:
+Why, then you call you on it?
+
+BUCKINGHAM:
+And so all my good lord.
+
+KING RICHARD III:
+Now, I am in the crown,
+So long as I myself have I sent for your grace.
+
+KING RICHARD III:
+
+============================================================
+МЕТРИКИ КАЧЕСТВА:
+• Слов: 334
+• Уникальность: 0.434
+• Связность: 0.042
+• Персонажи: 18
+• Диалоги: 26
