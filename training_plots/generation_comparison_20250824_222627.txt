@@ -1,0 +1,135 @@
+🎭 СРАВНЕНИЕ ГЕНЕРАЦИИ ЛУЧШИХ МОДЕЛЕЙ
+============================================================
+
+📊 РЕЗУЛЬТАТЫ ЭКСПЕРИМЕНТОВ:
+🥇 Embeddings Centered: +2.26% улучшение
+🥈 QK + Value: +1.89% улучшение
+🥉 Value Centered: +1.13% улучшение
+📊 Baseline: контрольная группа
+
+
+🎯 ПРОМПТ: 'ROMEO:'
+==================================================
+
+🎭 Baseline 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample.py", line 23, in <module>
+
+
+🎭 Embeddings Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 QK + Value 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 Value Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎯 ПРОМПТ: 'JULIET:'
+==================================================
+
+🎭 Baseline 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample.py", line 23, in <module>
+
+
+🎭 Embeddings Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 QK + Value 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 Value Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎯 ПРОМПТ: 'To be or not to be'
+==================================================
+
+🎭 Baseline 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample.py", line 23, in <module>
+
+
+🎭 Embeddings Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 QK + Value 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 Value Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎯 ПРОМПТ: 'Once upon a time'
+==================================================
+
+🎭 Baseline 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample.py", line 23, in <module>
+
+
+🎭 Embeddings Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 QK + Value 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 Value Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎯 ПРОМПТ: 'The meaning of life'
+==================================================
+
+🎭 Baseline 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample.py", line 23, in <module>
+
+
+🎭 Embeddings Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 QK + Value 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+🎭 Value Centered 1K:
+------------------------------
+Ошибка: Traceback (most recent call last):
+  File "/home/roman/AI5/nanoGPT/sample_centered.py", line 24, in 
+
+
+📝 Отчет создан: 20250824_222627
+🎯 Все модели обучены на 1000 итераций
+📊 Температура генерации: 0.8
+🔢 Максимум токенов: 150

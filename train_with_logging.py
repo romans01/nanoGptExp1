@@ -80,7 +80,12 @@ def run_training_with_logging(args):
         if config_file and os.path.exists(config_file):
             with open(config_file, 'r') as f:
                 config_content = f.read()
-                if any(param in config_content for param in ['use_centered_attention', 'center_qk', 'center_final_output']):
+                # Проверяем новые расширенные параметры центрирования
+                if any(param in config_content for param in ['center_v', 'center_mlp', 'center_residual', 'center_embeddings']):
+                    train_script = 'train_advanced_centered.py'
+                    print(f"🎯 Обнаружены расширенные параметры центрирования, используем {train_script}")
+                # Проверяем старые параметры центрирования
+                elif any(param in config_content for param in ['use_centered_attention', 'center_qk', 'center_final_output']):
                     train_script = 'train_centered.py'
                     print(f"🎯 Обнаружены параметры центрирования, используем {train_script}")
     

@@ -7,7 +7,7 @@ import pickle
 from contextlib import nullcontext
 import torch
 import tiktoken
-from model_with_centering import GPTConfig, GPT
+from model_advanced_centering import AdvancedGPTConfig as GPTConfig, AdvancedGPT as GPT
 
 # -----------------------------------------------------------------------------
 init_from = 'resume' # either 'resume' (from an out_dir) or a gpt2 variant (e.g. 'gpt2-xl')
