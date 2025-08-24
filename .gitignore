@@ -1,12 +1,64 @@
-.DS_Store
-.idea
-.ipynb_checkpoints/
-.vscode
+# Python
 __pycache__/
-*.bin
-*.pkl
-*.pt
-*.pyc
-input.txt
-env/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
 venv/
+env/
+ENV/
+
+# Training outputs
+out*/
+*.bin
+*.pt
+*.pth
+
+# Logs and temporary files
+training.log
+*.log
+
+# Training plots and data (можно раскомментировать если хотите коммитить)
+training_plots/
+final_training_plots.png
+example_training_plots.png
+training_plots_iter_*.png
+
+# Wandb
+wandb/
+
+# Data files
+data/*/train.bin
+data/*/val.bin
+data/*/input.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
