@@ -8,6 +8,7 @@ import subprocess
 import sys
 import threading
 import time
+import os
 from pathlib import Path
 import re
 
@@ -70,8 +71,21 @@ def run_training_with_logging(args):
     
     log_file = 'training.log'
     
+    # Определяем какой train.py использовать
+    train_script = 'train.py'
+    
+    # Проверяем конфиг на наличие параметров центрирования
+    if args:
+        config_file = args[0] if not args[0].startswith('--') else None
+        if config_file and os.path.exists(config_file):
+            with open(config_file, 'r') as f:
+                config_content = f.read()
+                if any(param in config_content for param in ['use_centered_attention', 'center_qk', 'center_final_output']):
+                    train_script = 'train_centered.py'
+                    print(f"🎯 Обнаружены параметры центрирования, используем {train_script}")
+    
     # Команда для запуска обучения
-    cmd = ['python', 'train.py'] + args
+    cmd = ['python', train_script] + args
     
     print(f"🚀 Запускаю обучение: {' '.join(cmd)}")
     print(f"📝 Логи сохраняются в: {log_file}")

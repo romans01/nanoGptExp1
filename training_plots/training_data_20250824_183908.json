@@ -1,0 +1,31 @@
+{
+  "validation": {
+    "steps": [
+      0
+    ],
+    "train_loss": [
+      10.8226
+    ],
+    "val_loss": [
+      10.8226
+    ]
+  },
+  "training": {
+    "iters": [],
+    "loss": [],
+    "time": [],
+    "mfu": []
+  },
+  "model_info": {
+    "parameters": "208.54M",
+    "n_layer": "24",
+    "n_head": "12",
+    "n_embd": "768",
+    "block_size": "512",
+    "batch_size": "8",
+    "learning_rate": 0.0003,
+    "dropout": 0.1,
+    "max_iters": "1000",
+    "dataset": "shakespeare"
+  }
+}

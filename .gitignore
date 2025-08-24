@@ -36,11 +36,11 @@ out*/
 training.log
 *.log
 
-# Training plots and data (можно раскомментировать если хотите коммитить)
-training_plots/
-final_training_plots.png
-example_training_plots.png
-training_plots_iter_*.png
+# Training plots and data - теперь включены в репозиторий
+# training_plots/
+# final_training_plots.png
+# example_training_plots.png
+# training_plots_iter_*.png
 
 # Wandb
 wandb/
